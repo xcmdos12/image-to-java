@@ -1,0 +1,14 @@
+C:\Users\Chris\source\repos\ImageToText\ImageToText\bin\Debug\ImageToText.exe.config
+C:\Users\Chris\source\repos\ImageToText\ImageToText\bin\Debug\ImageToText.exe
+C:\Users\Chris\source\repos\ImageToText\ImageToText\bin\Debug\ImageToText.pdb
+C:\Users\Chris\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.csproj.AssemblyReference.cache
+C:\Users\Chris\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.exe
+C:\Users\Chris\source\repos\ImageToText\ImageToText\obj\Debug\ImageToText.pdb
+C:\Users\Chris\Documents\Visual Studio 2019\Projects\ImageToText\ImageToText\bin\Debug\ImageToText.exe.config
+C:\Users\Chris\Documents\Visual Studio 2019\Projects\ImageToText\ImageToText\bin\Debug\ImageToText.exe
+C:\Users\Chris\Documents\Visual Studio 2019\Projects\ImageToText\ImageToText\bin\Debug\ImageToText.pdb
+C:\Users\Chris\Documents\Visual Studio 2019\Projects\ImageToText\ImageToText\obj\Debug\ImageToText.csproj.AssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2019\Projects\ImageToText\ImageToText\obj\Debug\ImageToText.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\Visual Studio 2019\Projects\ImageToText\ImageToText\obj\Debug\ImageToText.exe
+C:\Users\Chris\Documents\Visual Studio 2019\Projects\ImageToText\ImageToText\obj\Debug\ImageToText.pdb
